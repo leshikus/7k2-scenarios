@@ -1,0 +1,171 @@
+Keys to Success at Seven Kingdoms II v2.1 (99/12/30)
+by KierJack (kierjack@cyberdude.com)
+
+Note: This guide is exclusively for players playing humans.  I have a lot of Fryhtan tips I can share as well, but I have not as of yet written them down anywhere.  Try Tekman or Earl J Young's guides instead.
+
+Downloading Tip: If you are reading this on the web and you want to download it as well, under "file" in your web browser, select "save" or "save as".
+
+Viewing Tip: In notepad, under "edit", toggle "word wrap" on (a checkmark appears).
+
+The Beginning Game
+******************
+
+1) Click on your first village.  Right click the tax icon.  Right click on 40.  This will automatically tax ALL villages of yours once a village reaches a loyalty of 40.  
+
+Note: If you have problems with rebellions it is suggested that u set this at 50 or even 60.  40 is only recommended for experienced players.
+
+Now right click the grant icon.  Right click on 30.  Now anytime a village of yours drops to a loyalty of 30, this will automatically grant money to that village to bring up it's loyalty. 
+
+Make sure that throughout the game each village of yours is either connected to a camp or fort with a general in it.  If there is *only* a fort that it is connected to, make sure that the connection is with a green circle, not a red circle. 
+
+2) Click on your fort.  There is an icon of a person with a spear, click it till the spear points downwards.  This puts all soldiers inside "at ease", meaning that they will not come out unless you "sortie" them.  You want to do this so they don't come out 1 at a time to face the enemy without the bonus that their general gives them.  It is recommended that you do this with your future forts as well.  
+
+Note: Later on, when the fort has built its archer towers, you might want to set it back to "at alert" so that when you are attacked that the archer towers fire at the enemy, but until your enemy attacks, keep it "at ease".
+
+You might want to train enough soldiers to fill your first fort as well.  If you are new to 7K2 it is recommended that you do so for defensive purposes.
+
+3) If you have a mine near you, immediately recruit a villager and have him build a mine on it.
+
+Note: You may want to place a peasant on other raw resource deposits near you as well to prevent other kingdoms from taking advantage of them.  If you're playing against ai, the ai will likely attack this peasant tho.  Either way, do not build this 2nd mine right away as you will need the workers elsewhere.
+
+Planning Your Base
+******************
+
+Before we go to point #4 I would like to discuss planning your base.
+
+I usually play as an archer capable nationality so this layout may not suit the fighting styles of other nationalities quite as well.  (The rest of this strategy is still extremely useful using other layouts tho, so don't stop reading, you're almost guaranteed to learn something!) :)  Reason being that when others try and attack me they usually get clogged behind my buildings and my archers can still hit them.  If you play as one of the brawler nationalities (eg. Vikings) I would suggest you try out other layouts that might be more suited to your nationality's fighting style.  I've experimented with other nationalities myself though and have not noticed any major disadvantage using this layout, but some people might.
+
+I never try and spread out my kingdom, I always center all my villages around one market.  Some have told me this is foolish, but not once have any of these people beat me so I'll stick with my strategy.
+
+Planning the layout of my kingdom is perhaps the most important thing for me in 7K2.  The main thing is to be as efficient and effective as possible and if you follow this strategy I can almost guarantee you that you'll never run out of money, ever!
+
+Here's an example of the basic *final* layout:
+
+         nnn
+         nnn
+        wwww
+  ssssssssssu 
+  V V V V 1fu
+   c f f c sui
+  V      aVsu
+   f     f s 
+  V   m   Vs
+   f     f s
+  V       Vs
+   c f f c s
+  V V V V V
+
+1 = 1st village
+f = forts
+i = mine
+m = market
+c = camp
+a = factory
+s = tower of science
+n = inns
+V = villages
+w = war factory
+u = special unit structure
+
+For right now though, let's focus on the *beginning* layout, explanation following:
+
+         nnn
+         nnn
+  
+          ss 
+          1f
+         c   i
+         a
+
+      m  
+
+1 = 1st village
+f = forts
+i = mine
+m = market
+c = camp
+a = factory
+s = tower of science
+n = inns
+
+Now the most important aspect of this layout is that each village is *as far as possible* from the market.  Do not undervalue the importance of this.  For the greatest possible economy, it is crucial that you fit as much as possible around this one market.
+
+4) Recruit a villager and build a market (m) as far as possible (yet still connecting to) your first village.  If there's a fryhtan village in the way or the border of the map or mountains are in the way, just build the market in a different diagonal from your first village.  I've never encountered a situation where not one of the 4 diagonals would work for me.
+
+5) Recruit a villager and build a camp (c) in between your 1st village and your market.  You don't need this camp till you've annexed your first village, but we're going to build it now so it's easier to know where to build our factory.  (Once you've mastered how much space to leave for this camp, leave building it till later tho.)  Besides, you'll probably need the camp to house the mercenaries you'll likely soon be buying from your future inns.  Now before building this camp, imagine building two new villages, one directly below your 1st village and one right beside.  Imagine placing both villages as far as possible from your existing market.  Now while imagining these future villages in place, build a camp as close as possible to each of these villages (as in the first diagram).
+
+Note: We use camps here as they can collect tax from 5 villages if placed in this exact positioning, whereas forts can only collect tax from 1 village.  Generals in forts do generate higher taxes, but I believe that the extra expenses of having a fort for every village is not worth the extra revenue.  (ask Reno to test this theory)  Never sortie a general from one of these corner camps, you'll instantly begin to lose large amounts of money.  
+
+6) Recruit a villager and build a factory (a) connecting to your first mine, your 1st village and your market.  If you can help it, do not build the mine where you'll be placing future villages or science towers (as in the first diagram).  Where the factory is in the above example is not wholy necessary, but I find it's the best place to try and connect to everything.  If you can't connect it to everything, just have it connect to your mine and 1st village, then build another market connected to these and have a caravan (or 2) transport goods from this market to the main one.  Try not to place any of these buildings where future villages will be placed tho.  Sometimes you may have to, but tear them down as soon as you don't need them anymore.  Remember, the placement of villages as far from the market without wasting space inbetween villages is the most important thing in this layout.
+
+7) Recruit 2 villagers and build 2 science towers (s).  Place these behind your village.  Make sure they connect to your first village.  Immediately start researching something.  I usually start researching the Advanced Infantry Military Methodolgies first to help my soldiers defend from an early rush.  After that I usually like to start researching War Machine technologies (ballistaes first, then spitfires, then unicorns).  Or I might start researching Special Unit Structures depending on how the game is beginning to develop.  You might want to be careful not to build too great of a military in the beginning though as this might scare your opponent into attacking you.  In the beginning all you want to do is annex villages and research as much as you can.  Accept any treaties that are offered to you to keep the peace.
+
+8) Take a couple of the villagers you've recruited and build a row of inns (n) right behind your towers of science.  You might need 6 or more inns later, but only build 4 right now.  This might seem excessive, but trust me you'll likely need them very soon.  Remember what I was talking about with the defending against an early rush?  You need lots of inns to get as many mercenaries as possible.  
+
+Note: Be careful of building more than a 3x2 square of inns tho, I've built a 5x2 square of inns before and only the outside 2 on each end actually had any mercs available.  This may be a bug in the game, it may be on purpose, I don't know.
+
+9) Propose trade treaties with everyone and immediately start caravan routes to the closest markets that have goods.  You'll only be allowed to support a couple caravans in the beginning because of your low population so make the best use of the caravans you do have.
+
+Note: You might decide to start this later.  Point #11 is very important to get to asap.
+
+The Middle Game
+***************
+
+10) Select an independent village.  Press the Home (or End) key and cycle through all the independent towns.  Make a special mental note of where all the independent villages of your same nationality are.  
+
+11) Keep an eye on your inns for 2 things.  First is for cheap (leadership above 60 and a combat below 100) generals of the same nationality as independent villages (especially those villages close to you).  The second thing you want to look out for are cheap (combat above 60 and under $500) soldiers.
+
+12) Once you've hired a cheap general as noted in point #9, recruit a peasant and send him to one of those independent villages that is the same nationality as that general.  Once you feel it is safe (that is, that your general won't get ambushed by opposing forces), send your general to that fort.
+
+Now do the same with further peasants (probably only 2 more) for villages with the same nationality as other cheap generals you find.  
+
+Note: You may want to delay the building of these next forts until you feel that if you don't do it right then that your opponent will get that prospective village instead.
+
+13) After you've given your first fort builder a decent headstart *and* you feel it is safe (that is, your general won't get ambushed by opposing forces), send the appropriate general after him.  Once the fort is built make sure you place the general inside that new fort (I used to sometimes forget to do this). :) 
+
+Note: You could do the same with your king, but it is highly recommended that you do *not* send your king.  If you do at some point in the game decide to send your king to annex a village make sure, damn sure, that you send a strong enough escort troop along with him as protection.
+
+14) Once the new village's resistance drops to 60, use the peasant that built the fort to build 2 science towers.  Once the resistance drops to 50 these science towers will work (independant peasants decide to take the jobs u're offering them, which makes them more affable towards you) to decrease resistance down to 30 where the village will then join your kingdom.  If there's another kingdom trying to annex this village you may have to buy off the village by granting them money to lower their resistance to you faster.  If you do this make sure you have enough money tho.  It is wiser to grant them once you first enter the fort tho because it takes longer for the resistance to fall at higher levels than it does at lower levels, by granting you eliminate this lengthier period. 
+
+15) Once the village has decided to join your kingdom you have a decision to make to either move that village or leave it there.  If u move them u're giving up a lot of taxes in the time they have to move, but in the long run they'll be safer and it will be better due to economies of scale. If you think it's too risky (u think your enemy will attack soon and/or u need the money) or you feel that building your military is more important (point #16), don't move them, if u think it's safe, then yes move them. 
+
+If you do move them, do so by using the wagon button.  Create 1 wagon (consider sending a peasant to build the village instead, peasants travel much faster than wagons, but can they build the village faster than a wagonload of peasants, test this out) and send it to build on a particular spot at your home base.  It will take time for the village to build once the wagon gets there so wait a lil bit (about the time it takes for a village to build) before you send the rest of the village (in which time you will still get taxes from the village).  Send them to go close to the spot u sent the first wagon to build at.  Once they're there, if their loyalty is below 30, grant the wagons until their loyalty is above 30.  You want to do this to prevent rebellions.
+
+16) *Optional* You might decide that now is a good time to build up your military.  If so, immediately start researching the Special Unit of this new village.  Once researched, build the SU structure and start training SUs.
+
+Note:  If you think your opponent sent civilian spies into this town then you might want to put these future soldiers thru the spy cleansing program.  To do so, build *one* SU structure, but do *not* train any SUs in it tho.  Instead, build espionage colleges beside the SU structure.  Now train SU spies (the icon with the "S" beside it)!  Double agents (your spies r actually spies for your opponent spying on u) are not allowed in 7K2 so any spies you train are guaranteed to be strictly loyal to you.  I've even dumbfounded some very good players when I did this.
+
+17) *Optional* When you have a lil spare time and peasants are not at a premium you might decide to train some counterspies.  Recruit a villager and build an espionage college (e) right beside your fort.  If I do do this I only train them as civilian spies (if u want soldier spies, best to buy already skilled ones in the inns).
+
+Miscellaneous Notes
+*******************
+
+1) Place Porc IIIs on items and raw material deposits to keep other players from using them.
+
+2) Mouse-over trees and plants to find invisible wilde lishor.  One troop of Unicorn IIIs will take out a lishor with only one casualty.
+
+3) In long games place a general of same nationality as a connecting village in a camp beside that village.  Very important as in some games your rep will drop because rebels from other kingdoms will attack you and you then have to attack them.  Try and also keep villages with the same nationality right beside each other to take full advantage of similar nationality general in the camp connected to these villages.
+
+4) In long games build forts on the outskirts of your homebase to easily defend from attacks.  Use ballistae IIIs as defense early on, then switch to spitfire IIIs (unicorns r good, but they're better suited for offense than defense).  Build archer towers in these defense forts and set them to "alert".
+
+5) Never build forts in the center of your homebase unless you're pretty sure you'll have to defend soon.
+
+6) Build as many research towers as you possibly can.  Never tear them down (unless your building costs are greater than what the workers make).
+
+7) Don't build too many war factories if you're short on cash.  8 is often plenty, maybe even less than 8.  I sometimes make about 12 in long games tho.
+
+8) In long games, watch loyalty of mercenaries.  If below 40, do not sortie them too long.  Make a camp of soldiers with 40+ loyalty and one with <40.  Also try to give troops of soldiers the best leadership generals.
+
+9) Consider building your mine, factory and market right beside each other and then protect them all by building a fort equipped with 5 archer towers.  Put a soldier in there and set the fort to "alert".  If someone attacks your mine etc, your archer towers will soon slice and dice your enemy. ;)
+
+10) Ballistae rock!  Trust me. ;)
+
+Parting Words
+*************
+
+To have an idea of how this strategy might proceed, take a look at the first diagram above.
+
+Perhaps there is a more recent version of this guide available (it has been updated a number of times already).  If you think this file is probably old (look at top for the date) and a new one might be available, email me (email address at top as well) and I'll send you the latest version.
+
+All comments and suggestions are greatly welcomed.  Just email me.
+
